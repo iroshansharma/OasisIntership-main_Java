@@ -4,7 +4,7 @@
 
 Welcome to Oasis Infobyte Java Development Projects repository. This repository contains Java projects, including "Online Examination System, Number Guessing Game and ATM Interface ." These projects are designed to help you improve your Java programming skills and showcase your knowledge.
 
-## Project 1: Online Reservation System
+## Project 1: `Online Reservation System`
 Welcome to the Online Reservation System project description. In this project, I have developed an online reservation system that allows users to make reservations for various services or events. This system is designed to streamline the reservation process and provide users with a convenient and user-friendly platform.
 
 ## Project 2: `Online Examination System`
